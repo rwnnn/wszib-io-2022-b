@@ -36,6 +36,7 @@ class Trojkaty {
                     System.exit(2);
 		 }
 
+
         jakiTrojkat(a, b, c);
     }
 }
